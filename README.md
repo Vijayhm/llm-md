@@ -1,6 +1,6 @@
 # LLM-md
 
-> A Markdown-based protocol for building a clean, machine-native web — optimized for Large Language Models (LLMs) like GPT.
+A Markdown-based protocol for building a clean, machine-native web — optimized for Large Language Models (LLMs) like GPT.
 
 ---
 
