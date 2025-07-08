@@ -66,7 +66,7 @@ Quantum computing uses quantum bits (qubits)...
 - Entanglement
 - Quantum Gates
 
-
+```
 ⸻
 
 🔍 Use Cases
@@ -100,21 +100,3 @@ This project is in its early ideation phase, and we’re looking for:
 
 Open an issue to start a conversation or brainstorm.
 You can also contribute example .llm.md files to /examples
-
-```
-
-### ✅ Your Next Steps:
-
-1. Create your repo: `llm-md`
-2. Paste this into your `README.md`
-3. (Optional) Create a basic `/examples/` folder with a few `.llm.md` test docs
-4. Add a GitHub topic: `llm`, `markdown`, `ai-web`, `crawler`, `spec`
-
----
-
-Let me know when you're ready for:
-- 🧪 First crawler tool
-- 📜 Protocol spec draft (`spec.md`)
-- 🖼️ Architecture diagram (before/after LLM pipeline)
-
-You're officially building the **machine-readable layer of the web**. Let's go.
