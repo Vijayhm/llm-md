@@ -70,29 +70,29 @@ Quantum computing uses quantum bits (qubits)...
 ⸻
 
 🔍 Use Cases
-• Faster, cheaper web crawling for AI
-• Search engines optimized for structured content
-• AI agents browsing the “machine-readable” web
-• Documentation or blogs offering .llm.md as an alias
-• Browser extensions or GPT plugins using cleaner views
+- Faster, cheaper web crawling for AI
+- Search engines optimized for structured content
+- AI agents browsing the “machine-readable” web
+-  Documentation or blogs offering .llm.md as an alias
+-  Browser extensions or GPT plugins using cleaner views
 
 ⸻
 
 📦 Project Components (Coming Soon)
-• llm-md-crawler: Simple CLI to fetch .llm.md version of any page
-• llm-md-validator: Checks structure, metadata, and format
-• llm-md-template: Starter template for static sites
-• llm-md-protocol: Living spec for aliasing + content rules
+- llm-md-crawler: Simple CLI to fetch .llm.md version of any page
+- llm-md-validator: Checks structure, metadata, and format
+- llm-md-template: Starter template for static sites
+- llm-md-protocol: Living spec for aliasing + content rules
 
 ⸻
 
 💡 Get Involved
 
 This project is in its early ideation phase, and we’re looking for:
-• Feedback on the protocol idea
-• Use cases or integrations
-• Tool builders, web authors, AI engineers
-• Early experiments and adopters
+- Feedback on the protocol idea
+- Use cases or integrations
+- Tool builders, web authors, AI engineers
+- Early experiments and adopters
 
 ⸻
 
