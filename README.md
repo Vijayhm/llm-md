@@ -99,12 +99,9 @@ This project is in its early ideation phase, and we’re looking for:
 📫 Contact / Discussion
 
 Open an issue to start a conversation or brainstorm.
-You can also contribute example .llm.md files to /examples.
+You can also contribute example .llm.md files to /examples
 
-⸻
-
-
----
+```
 
 ### ✅ Your Next Steps:
 
